@@ -1,4 +1,4 @@
-#include "number_convo.h"
+#include "number_convert.h"
 #include <gtest/gtest.h>
 namespace {
 TEST(Number_convo_Test, BinaryToDecimal){
