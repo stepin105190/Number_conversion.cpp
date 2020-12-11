@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+#include "number_convert.h"
 
 int Binary_to_Decimal(long long n);
 long Decimal_to_Binary(int n);
